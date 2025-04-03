@@ -13,7 +13,8 @@ pnpm dev
 # or
 bun dev
 ```
-![Alt text](https://drive.google.com/file/d/1mSv2jna4Bhhd0bHjgUSsChoxrVVsuzeS/view?usp=sharing)
+![Alt text](https://drive.google.com/uc?export=view&id=1mSv2jna4Bhhd0bHjgUSsChoxrVVsuzeS)
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
