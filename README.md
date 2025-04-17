@@ -13,7 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
-
+!(https://drive.google.com/file/d/1aphunRBkoEmYW5CPdFeq20w58alHWxfm/view?usp=sharing)
 ![Screenshot 2025-04-03 171954](https://github.com/user-attachments/assets/c9cf9800-65fe-4bd8-b7d1-3d105def914d)
 
 ![Screenshot 2025-04-03 171924](https://github.com/user-attachments/assets/c2a637af-b87a-4e63-81c2-dbfe3d86ef50)
